@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "sys_init.h": "c",
+        "sys_bus_matrix.h": "c",
+        "sys_update.h": "c",
+        "sys_usart.h": "c",
+        "kmain.h": "c",
+        "sys_rtc.h": "c",
+        "cm4.h": "c",
+        "syscall.h": "c",
+        "syscall_def.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "unistd_x32.h": "c",
+        "stdint.h": "c"
+    }
+}
